@@ -2,11 +2,11 @@
 ## About
 > application to find root of equations of any order, and solve system of linear Equations.
 ## Development Prerequisites
-### root finding methods:
-#### Bracketing methods:
+### root finding methods
+#### Bracketing methods
 * Bisection Methods
 * False Position (Regula-Falsi)
-#### Open Methods:
+#### Open Methods
 * Fixed Point Iteration
 * Newton Raphson
 * Secant
